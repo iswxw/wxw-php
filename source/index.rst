@@ -5,7 +5,7 @@
    contain the root `toctree` directive.
 
 ================================================
-Go 入门到精通
+PHP 入门到精通
 ================================================
 
 Contents:
@@ -15,9 +15,6 @@ Contents:
    :glob:
 
    preface
-   w01/index
-   w02/index
-   w03/index
    w04/index
    wend/about
 
