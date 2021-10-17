@@ -1,7 +1,9 @@
 {
     "require": {
         "monolog/monolog": "^2.3",
-        "noahbuscher/macaw": "dev-master"
+        "noahbuscher/macaw": "dev-master",
+        "twig/twig": "^3.0",
+        "catfan/medoo": "^2.1"
     },
     "autoload": {
         "psr-4":{

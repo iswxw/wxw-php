@@ -6,3 +6,4 @@ Pipfile
 test*
 Untitled*
 
+/vendor/
