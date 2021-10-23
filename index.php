@@ -9,6 +9,7 @@ use NoahBuscher\Macaw\Macaw;
 Macaw::get('/twig_index', 'controllers\TwigController@index'); // curl localhost:9090/twig_index
 
 Macaw::get('/test_index', 'controllers\TestController@index'); // curl localhost:9090/test_index
+Macaw::get('/test_model', 'controllers\TestController@testModel'); // curl localhost:9090/test_model
 Macaw::get('/', function () { echo "Hello World!";});// curl localhost:9090
 
 
