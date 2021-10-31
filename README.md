@@ -15,8 +15,6 @@ PHP 一种创建动态交互性站点的强有力的服务器脚本语言。
 - 第三章：数据操作
   - [1. PHP 操作MySQL](https://wxw-go.readthedocs.io/en/latest/w04/w04_mysql.html) 
 
-
-
 ---
 
 对文章有什么疑问，对项目有什么建议，可以添加微信与我交流，同时欢迎在主页关注微信公众号。
