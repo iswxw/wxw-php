@@ -13,6 +13,7 @@
     :maxdepth: 1
     :numbered: 2
 
-    w01_mysql
+    w021_ObjectThought
+    w022_Class
 
 --------------------------------------------
