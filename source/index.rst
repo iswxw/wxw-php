@@ -15,6 +15,8 @@ Contents:
    :glob:
 
    preface
+   w01/index
+   w02/index
    w04/index
    wend/about
 

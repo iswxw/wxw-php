@@ -1,9 +1,9 @@
-build/*
+
 *.pyc
 .idea/
 Makefile
 Pipfile
 test*
 Untitled*
-
 /vendor/
+/build/
