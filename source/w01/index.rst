@@ -12,7 +12,7 @@
     :maxdepth: 1
     :numbered: 2
 
-    w011_phpInit
-    W012_Array
+    w011_Init
+    w012_Array
 
 --------------------------------------------
